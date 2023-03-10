@@ -1,0 +1,12 @@
+1. git clone <link>
+2. git add <file1.py>
+   git add .
+3. git commit ---message "feat: add hello file"
+
+	feat: ui: fix: refactor: 
+
+4. git push
+
+git status
+
+This is a change
